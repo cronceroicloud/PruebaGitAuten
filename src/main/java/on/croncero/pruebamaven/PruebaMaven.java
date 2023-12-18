@@ -6,7 +6,7 @@ package on.croncero.pruebamaven;
 
 /**
  *
- * @author croncero dsfasfd a
+ * @author dsfcroncero dsfasfd a
  */
 public class PruebaMaven {
 
